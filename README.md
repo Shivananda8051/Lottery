@@ -3,6 +3,9 @@
 ## Overview
 This is an interactive lottery game where users can test their luck by selecting numbers and spinning the wheel. The game is built with HTML, CSS, and JavaScript, featuring dynamic gameplay and real-time results.
 
+Demo : https://chimerical-crepe-7b96f3.netlify.app/
+
+
 ## Features
 - **Number Selection**: Users can choose their lucky numbers.
 - **Random Number Generation**: The game generates random winning numbers.
