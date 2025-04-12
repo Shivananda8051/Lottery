@@ -19,7 +19,7 @@ This is an interactive lottery game where users can test their luck by selecting
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lottery-game.git
+   https://github.com/Shivananda8051/Lottery.git
    cd lottery-game
    ```
 2. Open the `index.html` file in your browser to play the game.
